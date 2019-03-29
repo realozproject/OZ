@@ -27,7 +27,6 @@ header :before{
    border-bottom: 2px solid silver;
    width: 100vw;
    padding-bottom: 5px;
-
 }
 
 .menu {
@@ -94,7 +93,6 @@ span{
   padding: 5px;
   margin: 10px;
 }
-
 .overview h1{
   display:inline;
   border-bottom: solid 1px black;
